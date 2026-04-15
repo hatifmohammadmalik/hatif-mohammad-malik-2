@@ -1,1 +1,14 @@
+!<DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>MY WEBSITE</TITLE>
+<LINK REL="STYLESHEET"
+href="style.css">
+</head>
+<body>
+<h1>welcom to my website</h1>
+<p>this is my first styled website</p>
 
+<img src="IMG-20230101-WA0017jpg"  width="200"
+</body>
+</html>
