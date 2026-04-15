@@ -1,1 +1,9 @@
-
+body{
+background-color :Lightblue
+  text-family :Arial
+}
+h1{
+  color: darkblue
+}
+p{
+  font-size: 18px;
